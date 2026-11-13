@@ -1,18 +1,29 @@
 ![Timileyin — Python and backend development](assets/profile-header.svg)
 
-## About me
+## About
 
-I’m a Computer Science student at Covenant University. I build Python tools for things I want to keep track of, from daily expenses to internship applications. I’m working toward my first software engineering internship, with a focus on backend and cloud development.
+I’m a Computer Science student at Covenant University. I build tools around questions I actually ask: where did my money go this month, and which internship applications have reached the interview stage?
+
+<table>
+<tr><th align="left">Focus</th><td>Python backend development and cloud software engineering</td></tr>
+<tr><th align="left">Current build</th><td><a href="https://github.com/timileyin-swe/job-application-api">Job Application API</a> · FastAPI, SQLite and automated tests</td></tr>
+<tr><th align="left">Learning</th><td>PostgreSQL, then deploying an API with persistent data</td></tr>
+<tr><th align="left">Open to</th><td>My first software engineering internship</td></tr>
+</table>
 
 ## Tech stack
 
-![Python](https://img.shields.io/badge/Python-183349?style=flat-square&logo=python&logoColor=FFD65A) ![FastAPI](https://img.shields.io/badge/FastAPI-103E40?style=flat-square&logo=fastapi&logoColor=68E7C8) ![SQLite](https://img.shields.io/badge/SQLite-203953?style=flat-square&logo=sqlite&logoColor=9FD9FF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-253450?style=flat-square&logo=githubactions&logoColor=B6CDFF)
+<p align="center"><b>Backend &amp; databases</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,fastapi,sqlite&amp;theme=dark" alt="Python, FastAPI and SQLite" /></p>
 
-| Area | How I use it |
-| --- | --- |
-| Backend | Python and FastAPI for request validation, filtering and reporting |
-| Data | SQL and SQLite for application records and expense summaries |
-| Testing | pytest and GitHub Actions to check changes before merging |
+<p align="center"><b>Development &amp; automation</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&amp;theme=dark" alt="Git, GitHub, GitHub Actions and VS Code" /></p>
+
+## Activity
+
+<p align="center"><a href="https://github.com/timileyin-swe?tab=overview"><img width="510" src="https://streak-stats.demolab.com/?user=timileyin-swe&amp;background=0C1729&amp;hide_border=true&amp;ring=56E6BE&amp;fire=56E6BE&amp;currStreakLabel=91F4D6&amp;sideLabels=A6C5D6&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=A6C5D6&amp;stroke=39526A" alt="Timileyin’s GitHub contributions and streak" /></a></p>
+
+<p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3Atimileyin-swe+is%3Amerged+sort%3Aupdated-desc">Merged pull requests</a> · <a href="https://github.com/timileyin-swe/job-application-api/actions/workflows/api-tests.yml">API test runs</a> · <a href="https://github.com/timileyin-swe/job-application-api/pull/6">Company filter walkthrough</a></p>
 
 ## Selected projects
 
@@ -25,13 +36,3 @@ A FastAPI service for recording applications and following them from application
 ### [Python Expense Tracker](https://github.com/timileyin-swe/python-expense-tracker)
 
 A command-line tool for recording expenses, reviewing monthly spending, and exporting records to CSV. It stores amounts as whole kobo so spending totals stay exact.
-
-## What I’m learning
-
-I’m building on Python and SQLite by learning PostgreSQL. My next cloud milestone is deploying a tested API and learning how to keep its data available across restarts.
-
-## Activity
-
-- [Recent pull requests](https://github.com/pulls?q=is%3Apr+author%3Atimileyin-swe+is%3Amerged+sort%3Aupdated-desc) — browse my merged changes and the reasoning behind them.
-- [API test runs](https://github.com/timileyin-swe/job-application-api/actions/workflows/api-tests.yml) — see which changes passed the automated tests.
-- [Company filtering](https://github.com/timileyin-swe/job-application-api/pull/6) — a recent example of combining SQL filters and testing similar company names.
