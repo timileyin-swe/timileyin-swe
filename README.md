@@ -1,10 +1,8 @@
-# Hi, I’m Timileyin.
+![Timileyin — Python and backend development](assets/profile-header.svg)
 
 I’m a Computer Science student at Covenant University. I build Python tools for things I want to keep track of, from daily expenses to internship applications. I’m working toward my first software engineering internship, with a focus on backend and cloud development.
 
-```text
-timileyin-swe  /  Python · SQL · GitHub Actions
-```
+![Python](https://img.shields.io/badge/Python-183349?style=flat-square&logo=python&logoColor=FFD65A) ![FastAPI](https://img.shields.io/badge/FastAPI-103E40?style=flat-square&logo=fastapi&logoColor=68E7C8) ![SQLite](https://img.shields.io/badge/SQLite-203953?style=flat-square&logo=sqlite&logoColor=9FD9FF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-253450?style=flat-square&logo=githubactions&logoColor=B6CDFF)
 
 ## Selected projects
 
