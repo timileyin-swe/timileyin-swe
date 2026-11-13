@@ -2,7 +2,7 @@
 
 ## About
 
-I’m a Computer Science student at Covenant University. I build tools around questions I actually ask: where did my money go this month, and which internship applications have reached the interview stage?
+I’m a Computer Science student at Covenant University. I have strong Power BI skills in data analysis and visualization. I build tools around questions I actually ask: where did my money go this month, and which internship applications have reached the interview stage?
 
 <table>
 <tr><th align="left">Focus</th><td>Python backend development and cloud software engineering</td></tr>
@@ -12,6 +12,9 @@ I’m a Computer Science student at Covenant University. I build tools around qu
 </table>
 
 ## Tech stack
+
+<p align="center"><b>Business intelligence</b></p>
+<p align="center"><img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&amp;labelColor=F2C811" alt="Microsoft Power BI" /></p>
 
 <p align="center"><b>Backend &amp; databases</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=py,fastapi,sqlite&amp;theme=dark" alt="Python, FastAPI and SQLite" /></p>
